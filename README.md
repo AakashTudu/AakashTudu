@@ -1,16 +1,18 @@
-## Hi there 👋
+# Aakash Tudu
+**Protocol Architect | Applied Cryptography & zkML**
 
-<!--
-**AakashTudu/AakashTudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in the intersection of Zero-Knowledge proofs, Machine Learning, and EVM smart contract infrastructure. I build privacy-preserving, mathematically sound architectures that solve capital inefficiency in decentralized finance.
 
-Here are some ideas to get you started:
+### 🏗 Current Focus
+* **[Aegis Core (zkCredit)](https://github.com/AakashTudu/aegis-core):** A fully on-chain, Zero-Knowledge credit oracle natively un-wrapping finite-field ML predictions to dynamically route undercollateralized liquidity. Currently live on Sepolia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+* **Cryptography:** Circom, SnarkJS, Groth16, Finite-Field Arithmetic
+* **Smart Contracts:** Solidity, Hardhat, Gas Optimization, EVM Architecture
+* **Data Science:** Python, Scikit-Learn, RPC State Streaming
+
+### 📩 Contact
+Currently available for high-impact protocol engineering roles and VC/Seed conversations. 
+Due to bandwidth, I only engage with technically rigorous teams. 
+
+* **Direct Inquiry:** [Insert your Twitter/X link or Email here]
