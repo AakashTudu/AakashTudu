@@ -15,4 +15,4 @@ Specializing in the intersection of Zero-Knowledge proofs, Machine Learning, and
 Currently available for high-impact protocol engineering roles and VC/Seed conversations. 
 Due to bandwidth, I only engage with technically rigorous teams. 
 
-* **Direct Inquiry:** [Insert your Twitter/X link or Email here]
+* **Direct Inquiry:** [atudu16@gmail.com]
