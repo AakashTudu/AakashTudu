@@ -7,7 +7,7 @@ My engineering focus sits at the intersection of **Zero-Knowledge Machine Learni
 
 ---
 
-### 🏗️ Core Engineering Portfolio
+### Core Engineering Portfolio
 
 **1. Applied Cryptography & zkML: [Aegis Core (zkCredit)](https://github.com/AakashTudu/aegis-core)**
 A fully on-chain, Zero-Knowledge credit oracle. Bypasses traditional overcollateralization by natively un-wrapping finite-field ML predictions on-chain to dynamically route undercollateralized liquidity. 
@@ -23,7 +23,7 @@ An interactive simulation engine modeling cascading liquidations within Aave V3.
 
 ---
 
-### 💻 Technical Stack
+### Technical Stack
 
 * **Smart Contracts & EVM:** Solidity, Foundry, Yul / Inline Assembly, Hardhat, Gas Optimization
 * **Cryptography:** Circom, SnarkJS, Groth16, Finite-Field Arithmetic
@@ -31,7 +31,7 @@ An interactive simulation engine modeling cascading liquidations within Aave V3.
 
 ---
 
-### 📬 Contact
+### Contact
 
 Currently available for high-impact protocol engineering roles and VC/Seed conversations. Due to bandwidth, I primarily engage with technically rigorous teams building at the infrastructure or protocol layer.
 
